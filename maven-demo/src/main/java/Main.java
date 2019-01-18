@@ -4,6 +4,6 @@ public class Main {
 	{
 		System.out.println("testing");
 		System.out.println("testing more for git testing");
-		System.out.println("testing more for git, maven and jenkins11");
+		System.out.println("testing more for git, maven and jenkins11 changed from git");
 	}
 }
